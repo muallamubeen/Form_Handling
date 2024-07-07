@@ -40,28 +40,28 @@ This project is a simple web-based application built using PHP for backend form 
 
 1. Open the application in your web browser.
 2. Use the forms to insert, update, or delete an account:
- - Insert account: Fill in the username, password, and email fields, then click "Insert".
- - Update account: Fill in the username, password, and email fields, then click "Update".
- - Delete account: Fill in the username and password fields, then click "Delete".
+    - Insert account: Fill in the username, password, and email fields, then click "Insert".
+    - Update account: Fill in the username, password, and email fields, then click "Update".
+    - Delete account: Fill in the username and password fields, then click "Delete".
 
 ## File Details
 
 - index.html
 
-This file contains the HTML code for displaying the forms. It includes three forms for inserting, updating, and deleting accounts.
+   This file contains the HTML code for displaying the forms. It includes three forms for inserting, updating, and deleting accounts.
 
 - css/style.css
 
-This file contains the CSS rules to style the forms, making them visually appealing and user-friendly.
+   This file contains the CSS rules to style the forms, making them visually appealing and user-friendly.
 
 - includes/formhandler.inc.php
 
-This file contains the PHP script to handle the insertion of new accounts.
+   This file contains the PHP script to handle the insertion of new accounts.
 
 - includes/userupdate.inc.php
 
-This file contains the PHP script to handle the updating of existing accounts.
+   This file contains the PHP script to handle the updating of existing accounts.
 
 - includes/userdelete.inc.php
 
-This file contains the PHP script to handle the deletion of accounts.
+  This file contains the PHP script to handle the deletion of accounts.
