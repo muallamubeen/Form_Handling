@@ -20,12 +20,12 @@ This project is a simple web-based application built using PHP for backend form 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/form-handling.git
+   git clone https://github.com/muallamubeen/Form_Handling.git
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd calculator-project
+   cd Form_Handling
    
 3. **Deploy the project on your web server:**
    If you're using XAMPP, move the project directory to the htdocs folder inside your XAMPP installation directory.
